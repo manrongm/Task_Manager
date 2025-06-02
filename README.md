@@ -15,7 +15,7 @@ A simple and modern React Native task manager built using [Expo](https://expo.de
 - React Hooks (`useState`)
 - Expo CLI
 
-## 🚀 Getting Started
+## Getting Started
 
 Follow these steps to set up and run the app locally:
 
