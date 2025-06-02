@@ -7,8 +7,6 @@ A simple and modern React Native task manager built using [Expo](https://expo.de
 - Add new tasks with a tap
 - Mark tasks as complete using checkbox icons
 - Delete tasks with one click
-- Responsive layout and sleek mobile-friendly design
-- Custom styling with a modern look (no external CSS frameworks)
 
 ## Technologies Used
 
